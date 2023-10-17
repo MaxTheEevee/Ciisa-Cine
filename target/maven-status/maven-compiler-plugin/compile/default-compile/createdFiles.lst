@@ -1,0 +1,8 @@
+Model\Conexion.class
+Model\CrudGenero.class
+com\mycompany\cineciisa\JakartaRestConfiguration.class
+Model\CrudPelicula.class
+DAO\DAOpelicula.class
+Controller\Nuevo.class
+com\mycompany\cineciisa\resources\JakartaEE8Resource.class
+DAO\DAOgenero.class
